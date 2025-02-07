@@ -4,7 +4,7 @@
 - 解压文件后打开main.exe,输入端口后回车确认可自动启动服务，可创建快捷键到桌面方便使用
 
 # 启动
-![image](docs\20250207173137_rec_.gif)
+![image](./docs/20250207173137_rec_.gif)
 
 # 启动后成功打开devtool
-![image](docs\20250207174550_rec_1.gif)
+![image](./docs/20250207174550_rec_1.gif)
